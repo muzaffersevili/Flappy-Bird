@@ -1,0 +1,21 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MacOS
+.DS_Store
+
+# Unity3D Asset meta data
+*.meta
+
+# Unity3D build files
+*.apk
+*.unitypackage
+
+# Visual Studio Code
+.vscode/
